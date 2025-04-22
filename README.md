@@ -1,12 +1,57 @@
-# React + Vite
+# 📝 Todo List App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple, responsive Todo List application built using **React** and **Tailwind CSS**. This app helps users manage their daily tasks with an intuitive UI and smooth user experience.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ✅ Add new tasks
+- 📋 Mark tasks as completed
+- ❌ Delete tasks
+- ⚡ Responsive design with Tailwind CSS
+- ♻️ Data persistence using localStorage
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+- **React** (Functional Components + Hooks)
+- **Tailwind CSS**
+- **JavaScript (ES6+)**
+- **localStorage** (for saving tasks)
+
+
+## 🧑‍💻 Getting Started
+
+### Prerequisites
+
+Make sure you have **Node.js** and **npm** installed.
+
+### Installation
+
+# Clone the repository
+git clone https://github.com/zaheershaik01/todo-list-app.git
+cd todo-list-app
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+
+
+Visit http://localhost:5173 (if using Vite) in your browser.
+
+⚙️ Available Scripts
+npm run dev — Start development server
+
+npm run build — Build for production
+
+npm run preview — Preview production build
+
+🌟 Contributing
+Contributions are welcome! Feel free to open issues or submit pull requests to enhance the app.
+
+📄 License
+This project is licensed under the MIT License.
+
+
+
